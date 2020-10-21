@@ -6,5 +6,3 @@
 Hi, I'm the virus, I'm a "developer", I'm 17, just and web dating
 
 ### JavaScript ❤
-
-![SAFADA](https://cdn.discordapp.com/attachments/756295533659684868/757616687901311006/GIF-200803_194530.gif)
