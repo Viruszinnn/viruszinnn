@@ -20,5 +20,5 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viruszinnn)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Viruszinnn)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Alt Text](https://cdn.discordapp.com/attachments/785704335589244948/785712597973860402/NecessaryQuestionableKitten-max-1mb.gif)
+![Alt Text](https://cdn.discordapp.com/attachments/785704335589244948/785713039332343839/tenor_19.gif)
 
