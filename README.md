@@ -1,4 +1,4 @@
-![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png) ![](https://img.shields.io/badge/-js-blue?logo=c%2B%2B&style=flat) ![](https://komarev.com/ghpvc/?username=Viruszinnn)
+![](https://www.gentoo.org/assets/img/badges/gentoo-badge2.png) ![](https://camo.githubusercontent.com/148783fad0b4f453e725a2f29dfc35a1b2875669839aec46c39b240fa8873652/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637423933453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666) ![](https://komarev.com/ghpvc/?username=Viruszinnn)
 
 
 
