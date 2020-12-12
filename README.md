@@ -19,6 +19,9 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viruszinnn)](https://github.com/anuraghazra/github-readme-stats)     [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Viruszinnn)](https://github.com/anuraghazra/github-readme-stats)
 
+### *Spotify Playing :headphones:*
+
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
 ![Alt Text](https://cdn.discordapp.com/attachments/785704335589244948/785713039332343839/tenor_19.gif)
 
