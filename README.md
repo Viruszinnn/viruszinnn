@@ -21,7 +21,6 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 ### *Spotify Playing :headphones:*
 
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
 
-![Alt Text](https://cdn.discordapp.com/attachments/785704335589244948/785713039332343839/tenor_19.gif)
 
