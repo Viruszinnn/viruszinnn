@@ -17,7 +17,7 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=viruszinnn&show_icons=true&theme=dark)      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Viruszinnn)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=viruszinnn&show_icons=true&theme=dark)      [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Viruszinnn&count_private=true&show_icons=true&theme=dark)](https://github.com/viruszinnn/github-readme-stats)
 
 ### *Spotify Playing :headphones:*
 
