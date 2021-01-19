@@ -27,8 +27,8 @@ Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardwar
 
 Não me interesso por:
 
-- [x] HTML
-- [x] C
+- [x] WebApp
+- [x] Rust
 - [x] Programação funcional
 - [x] Python
 
