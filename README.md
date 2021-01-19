@@ -9,8 +9,6 @@ Atualmente estou estudando sobre Kernel Mode e Assembly x64 🙇
 
 Programação por hobbie 🙏
 
-Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
-
 Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinzeiro javascripteiro! 😡😡😡
 
 
@@ -22,15 +20,15 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 ```
 O'que faço?
 ```
-Atualmente estou estudando sobre o Windows NT , Assembly x64 e RE 🙇 
+Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
 ***
 
 Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardware_ 
 
 Não me interesso por:
 
-- [x] WebApp
-- [x] Rust
+- [x] HTML
+- [x] C
 - [x] Programação funcional
 - [x] Python
 
