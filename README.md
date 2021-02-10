@@ -10,7 +10,7 @@ Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinze
 
 
 
-[![Top Langs](a)](https://github.com/viruszinnn/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=viruszinnn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viruszinnn&show_icons=true&theme=dark)](https://github.com/viruszinnn/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=viruszinnn&show_icons=true&theme=dark)
 
 ```
 O'que faço?
