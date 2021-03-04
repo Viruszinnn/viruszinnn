@@ -18,7 +18,7 @@ O'que faço?
 Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
 ***
 
-Apenas me interesso por C/C++ , _Assembly_ , _Reverse Engineering, IoT e hardware_ 
+Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 
 
 Não me interesso por:
 
