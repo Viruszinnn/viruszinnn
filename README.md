@@ -1,13 +1,8 @@
 Olá , bem-vindo ao meu Github 👋
 
-Atualmente estou estudando sobre Kernel Mode e Assembly x64 🙇                                    
+Atualmente estou estudando sobre JavaSript, PHP 🙇                                    
 
-Programação por hobbie 🙏
-
-Saia da minha frente seu pythonista rusteiro webdeveloper bot developer kotlinzeiro javascripteiro! 😡😡😡
-
-
-
+Saia da minha frente seu software developer 😡😡😡
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viruszinnn&show_icons=true&theme=dark)](https://github.com/viruszinnn/github-readme-stats) ] ![Top Langs](https://github-readme-stats.vercel.app/api?username=viruszinnn&show_icons=true&theme=dark)
@@ -18,14 +13,13 @@ O'que faço?
 Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
 ***
 
-Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 
-
 Não me interesso por:
 
-- [x] WebApp
-- [x] Rust
-- [x] Programação funcional
+- [x] Java
+- [x] Golang
+- [x] Kotlin
 - [x] Python
+
 
 ```
 Futuros projetos
