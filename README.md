@@ -10,7 +10,7 @@ Saia da minha frente seu software developer 😡😡😡
 ```
 O'que faço?
 ```
-Apenas me interesso por JS/PHP , Assembly e Reverse Engineering 🧐
+Apenas me interesso por JS/PHP 🧐
 ***
 
 Não me interesso por:
